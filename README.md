@@ -6,7 +6,7 @@ I'm a student and Systems Analysis & Development
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd/)](https://www.linkedin.com/in/alexandrerodriguesd/) 
-[![Twitter Badge](https://img.shields.io/badge/-alexandreix@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandreix@hotmail.com)](mailto:alexandreix@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-alexandreix@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandreix@hotmail.com)](mailto:alexandreix@hotmail.com)
 
 
 
