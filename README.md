@@ -3,9 +3,8 @@
 I'm a student and Systems Analysis & Development
 
 #### 💬 Find me elsewhere
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd/) 
-[![hotmail Badge](https://img.shields.io/badge/-alexandreixc@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:alexandreix@hotmail.com)](mailto:alexandreix@hotmail.com)
+[!.[Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd/)
+[!.[hotmail Badge](https://img.shields.io/badge/-alexandreixc@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:alexandreix@hotmail.com)](mailto:alexandreix@hotmail.com)
 <!--
 **alexandreix/alexandreix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
