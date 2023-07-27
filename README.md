@@ -3,9 +3,9 @@
 I'm a student and Systems Analysis & Development
 
 #### 💬 Find me elsewhere
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd/)](https://www.linkedin.com/in/alexandrerodriguesd/) 
-[![Hotmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=//=mailto:alexandreix@hotmail.com)](mailto:alexandreix@hotmail.com)
-[![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white&link=https://opensea.io/alexandrearts)](https://opensea.io/alexandrearts)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0f6079?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd/)](https://www.linkedin.com/in/alexandrerodriguesd/) 
+[![Hotmail Badge](https://img.shields.io/badge/Outlook-73c0d7?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=//=mailto:alexandreix@hotmail.com)](mailto:alexandreix@hotmail.com)
+[![OpenSea](https://img.shields.io/badge/OpenSea-07c5ae.svg?style=for-the-badge&logo=opensea&logoColor=white&link=https://opensea.io/alexandrearts)](https://opensea.io/alexandrearts)
 
 <!--
 **alexandreix/alexandreix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
