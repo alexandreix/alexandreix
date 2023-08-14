@@ -3,7 +3,7 @@
 ##  Olá, sou o <strong>Alexandre Rodrigues!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > 
 
 - 🧑‍💻 &nbsp; Estudante de Programação
-- 🎓 &nbsp;  Cursando Análise & Desenvolvimento de Sistemas na Pitágoras JF
+- 🎓 &nbsp;  Cursando Análise & Desenvolvimento de Sistemas na Universidade Pitágoras - JF
 - 🌱 &nbsp; Em busca de adquirir experiência como desenvolvedor.
 
 #### 💬 Onde me encontrar:
