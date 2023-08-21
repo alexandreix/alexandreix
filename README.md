@@ -6,6 +6,11 @@
 - 🎓 &nbsp;  Cursando Análise & Desenvolvimento de Sistemas na Universidade Pitágoras - JF
 - 🌱 &nbsp; Em busca de experiência como desenvolvedor.
 
+
+<!--<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,mysql,git,github,py,powershell" />
+</p> -->
+
 #### 💬 Onde me encontrar:
 [![Linkedin: Alexandre](https://img.shields.io/badge/-LinkedIn-183fbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd-b4256b250/)](https://www.linkedin.com/in/alexandrerodriguesd-b4256b250/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alexandreix@hotmail.com)
