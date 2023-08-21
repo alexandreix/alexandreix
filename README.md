@@ -4,7 +4,7 @@
 
 - 🧑‍💻 &nbsp; Estudante de Programação
 - 🎓 &nbsp;  Cursando Análise & Desenvolvimento de Sistemas na Universidade Pitágoras - JF
-- 🌱 &nbsp; Em busca de adquirir experiência como desenvolvedor.
+- 🌱 &nbsp; Em busca de experiência como desenvolvedor.
 
 #### 💬 Onde me encontrar:
 [![Linkedin: Alexandre](https://img.shields.io/badge/-LinkedIn-183fbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd-b4256b250/)](https://www.linkedin.com/in/alexandrerodriguesd-b4256b250/)
