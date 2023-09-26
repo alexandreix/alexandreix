@@ -5,7 +5,7 @@
  
 - 👨‍💻 &nbsp; Estudante de Programação
 - 🎓 &nbsp; Cursando Análise & Desenvolvimento de Sistemas na Universidade Pitágoras - JF
-- 🎨 &nbsp; Desenhista autodidata, apaixonado por arte e criação.
+
 
 
 <!--<p align="left">
