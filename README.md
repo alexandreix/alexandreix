@@ -4,7 +4,6 @@
 
 - 👨‍💻 &nbsp; Estudante de Programação
 - 🎓 &nbsp; Cursando Análise & Desenvolvimento de Sistemas na Universidade Pitágoras - JF
-- 🌱 &nbsp; Apaixoando por arte, criação e tecnologia
 
 
 <!--<p align="left">
