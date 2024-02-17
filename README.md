@@ -6,8 +6,6 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alexandreix@hotmail.com)
 [![OpenSea](https://img.shields.io/badge/-OpenSea-4d72e8?style=flat-square&logo=opensea&logoColor=white&linkhttps://opensea.io/alexandrearts)](https://opensea.io/alexandrearts)
  
-- 👨‍💻 &nbsp; Estudante de Programação
-- 🎓 &nbsp; Graduado em Análise & Desenvolvimento de Sistemas pela Universidade Pitágoras - JF
 
 
 
