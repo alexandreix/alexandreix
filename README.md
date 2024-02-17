@@ -7,7 +7,7 @@
 [![OpenSea](https://img.shields.io/badge/-OpenSea-4d72e8?style=flat-square&logo=opensea&logoColor=white&linkhttps://opensea.io/alexandrearts)](https://opensea.io/alexandrearts)
  
 - 👨‍💻 &nbsp; Estudante de Programação
-- 🎓 &nbsp; Cursando Análise & Desenvolvimento de Sistemas na Universidade Pitágoras - JF
+- 🎓 &nbsp; Graduado em Análise & Desenvolvimento de Sistemas pela Universidade Pitágoras - JF
 
 
 
