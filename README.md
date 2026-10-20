@@ -15,7 +15,7 @@
     =======================================================
      [!] UNDERDEGREE: Systems Analysis & Development
      [!] EXPERTISE: Data Science & AI
-     [x] STUDYING: Python...
+     [+] STUDYING: Python...
      [!] OPENSEA: <a href="https://opensea.io/alexandrearts">alexandrearts</a>
     =======================================================
 
