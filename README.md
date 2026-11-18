@@ -13,8 +13,8 @@
    /_/   \_\_|\___/_/\_\__,_|_| |_|\__,_|_|  \___/  |_| \_\_( ) 
 
     =======================================================
-     [!] UNDERDEGREE: Systems Analysis & Development
-     [!] EXPERTISE: Data Science & AI
+     [!] GRADUATED: Systems Analysis & Development
+     [!] POSTGRAD STUDENT: Data Science & AI
      [+] STUDYING: Python...
      [!] OPENSEA: <a href="https://opensea.io/alexandrearts">alexandrearts</a>
     =======================================================
